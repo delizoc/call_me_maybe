@@ -1,16 +1,10 @@
 # call_me_maybe
 
-A new Flutter project.
+View video of app and code overview here: https://youtu.be/VEVv-Faja8s
 
-## Getting Started
+## Project Overview
+A three-tab application. The program should be responsive to different device orientations, invoke platform services, and support some stateful interaction.
+1. Display three tabs, consisting of icons, at the top area of the screen.
+2. Tapping any tab should display one of three things: a Business Card, a Resume or a Predictor.
+To see all project requirements go to 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
